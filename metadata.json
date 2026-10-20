@@ -1,0 +1,6 @@
+{
+  "name": "BlueAndMe Connect",
+  "description": "Dashboard automotive ispirata ad Android Auto per il sistema Blue&Me con telemetria CAN, comandi al volante, eco:Drive, lettore USB e aggiornamenti da GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

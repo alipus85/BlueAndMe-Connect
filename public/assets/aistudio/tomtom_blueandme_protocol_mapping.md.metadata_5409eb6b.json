@@ -1,0 +1,5 @@
+{
+  "summary":  "Mappatura esadecimale completa del protocollo Reflection TomTom Blue&Me. Include il deompilato della routine di dispatching, la struttura dell'header a 3 byte (iid uint16, fid uint8) e la tabella esaustiva di tutti i 21 Interface ID (IID) con i rispettivi Function ID (FID), direzioni e nomi testuali.",
+  "updatedAt":  "2026-10-19T18:57:43.952456Z",
+  "userFacing":  true
+}

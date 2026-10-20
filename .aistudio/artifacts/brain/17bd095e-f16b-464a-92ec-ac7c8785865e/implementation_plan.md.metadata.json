@@ -1,0 +1,6 @@
+{
+  "summary":  "Piano di implementazione arricchito con l'analisi dei file template ufficiali FCS0 (focus/*.fba): mappati Template 100 (Car Menu a 5 campi/valori), Template 3 (Pairing PIN Code), Template 248 (Allineamento unità veicolo), Template 250 (Avviso riserva carburante con km residui), Template 247 (Lettore SMS di bordo) e Template 255 (Selezione Head Unit), garantendo la compatibilità totale con il display a matrice del cruscotto Fiat/Blue&Me.",
+  "updatedAt":  "2026-10-20T19:35:34.041815581Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

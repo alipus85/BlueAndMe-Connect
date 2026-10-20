@@ -1,0 +1,5 @@
+{
+  "summary":  "Architettura completa e implementazione del codice Kotlin per l'applicazione Android Blue&Me TomTom. Include il layer di framing SLIP, il parser dei pacchetti Reflection (IID/FID), il decodificatore dei comandi al volante (iHidReport), la telemetria CAN (iPositioningSensor), il servizio Foreground Bluetooth SPP e la guida di integrazione.",
+  "updatedAt":  "2026-10-19T19:01:18.469625100Z",
+  "userFacing":  true
+}

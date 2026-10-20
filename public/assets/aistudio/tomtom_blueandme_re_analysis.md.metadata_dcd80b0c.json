@@ -1,0 +1,5 @@
+{
+  "summary":  "Analisi tecnica completa del reverse engineering di ttsystem, carlinkd e del protocollo proprietario Reflection per TomTom Blue&Me. Include la struttura del kernel/initramfs, la mappa dei demoni Bluetooth, i codici dei tasti al volante e le specifiche delle interfacce CAN/cruscotto.",
+  "updatedAt":  "2026-10-19T18:45:59.278200Z",
+  "userFacing":  true
+}
